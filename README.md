@@ -6,6 +6,7 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/mariaastashkevich)
 
 ## My skills:
+<pre>
 - C++
   • Object-oriented programming
   • Multithreading
@@ -15,7 +16,7 @@
 • Basics of the language
 • Unit-Testing(JUnit 5 + Mockito)
 • Frameworks(JAXB, Jackson, etc.)
-
+</pre>
 ## 💻 Tech stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
