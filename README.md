@@ -16,6 +16,8 @@
 • Basics of the language
 • Unit-Testing(JUnit 5 + Mockito)
 • Frameworks(JAXB, Jackson, etc.)
+  - German on level C1
+  - English on level B1
 </pre>
 ## 💻 Tech stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
