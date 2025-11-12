@@ -1,10 +1,9 @@
 # 💫 About Me:
 Hi, I'm **Maryia Astashkevich** — a Data Scientist & ML Engineer passionate about building intelligent systems and deploying real-world AI solutions 🚀  
 
-🎓 I’m currently studying **Applied Mathematics & Computer Science** at the **Belarusian State University (2022–2026)**  
-💼 Currently working as an **ML Engineer at FP Trade**  
-💡 Interested in **LLMs, RAG architectures, AI agents, and MLOps**  
 🏆 1st Place Winner — **Hackathon by Big Tech T1** (AI-powered customer support system)  
+
+💡 Interested in **LLMs, RAG architectures, AI agents, and MLOps**  
 
 ---
 
